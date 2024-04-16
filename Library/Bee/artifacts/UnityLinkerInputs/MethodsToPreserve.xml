@@ -1,0 +1,21 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="NPCScript">
+			<method name="SelfDestruct"/>
+			<method name="SelfDestruct"/>
+			<method name="SelfDestruct"/>
+			<method name="SelfDestruct"/>
+			<method name="SelfDestruct"/>
+			<method name="SelfDestruct"/>
+			<method name="SelfDestruct"/>
+			<method name="SelfDestruct"/>
+			<method name="SelfDestruct"/>
+		</type>
+		<type fullname="PlayerScript">
+			<method name="SelfDestruct"/>
+		</type>
+		<type fullname="StartGameScript">
+			<method name="SelfDestruct"/>
+		</type>
+	</assembly>
+</linker>
